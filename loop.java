@@ -10,15 +10,15 @@ public class loop {
         int n = SC.nextInt();
         int num = n;
 
-        int Fact = 1;
+        int fact = 1;
         for(int i = 1; i<=n; i++){
-            Fact = Fact * i;
-            System.out.println("The factorial of " + i  +" : " +Fact);
+            fact = fact * i;
+            System.out.println("The factorial of " + i  +" : " +fact);
 
         }
         
       
-      System.out.println("The factorial of " +num +" is " +Fact);
+      System.out.println("The factorial of " +num +" is " +fact);
         
       
 
