@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class loopexxxxx {
+public class loop {
     public static void main(String[] args) {
         Scanner SC = new Scanner(System.in);
         System.out.println("Enter a given number");
