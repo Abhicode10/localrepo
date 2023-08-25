@@ -8,7 +8,7 @@ public class loop {
         System.out.println("Enter a given number");
 
         int n = SC.nextInt();
-        int num = n;
+        int num1 = n;
 
         int fact = 1;
         for(int i = 1; i<=n; i++){
@@ -18,7 +18,7 @@ public class loop {
         }
         
       
-      System.out.println("The factorial of " +num +" is " +fact);
+      System.out.println("The factorial of " +num1 +" is " +fact);
         
       
 
